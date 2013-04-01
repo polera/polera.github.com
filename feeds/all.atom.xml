@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>polera.org</title><link href="http://polera.org/" rel="alternate"></link><link href="http://polera.org/feeds/all.atom.xml" rel="self"></link><id>http://polera.org/</id><updated>2013-03-31T21:03:00-04:00</updated><entry><title>Picking up a new language and some discipline</title><link href="http://polera.org/new-language-some-discipline.html" rel="alternate"></link><updated>2013-03-31T21:03:00-04:00</updated><author><name>James Polera</name></author><id>tag:polera.org,2013-03-31:new-language-some-discipline.html</id><summary type="html">&lt;p&gt;Picking up a new language is exciting, and there are so many great new ones out there.  On my
+white board (which is really orange, but I digress) I have 6 languages to learn for 2013:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://clojure.org"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://golang.org"&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://scala-lang.org"&gt;Scala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://msdn.microsoft.com/en-us/vstudio/hh388569.aspx"&gt;F#&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://erlang.org"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://elixir-lang.org"&gt;Elixir&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It seems like every year I have these swings in language desires.  Spring seems to swing towards Clojure (&lt;em&gt;oh, the JVM puns!&lt;/em&gt;).
+Summer runs Erlang.  Fall/Winter falls squarely in the Scala camp.
+I &lt;em&gt;want&lt;/em&gt; to learn all of these languages, but I feel like I may set unrealistic goals for myself given the amount
+of time I have to dedicate to learning them.&lt;/p&gt;
+&lt;p&gt;That changes this year, this month with this blog post.  I'm going to apply the &lt;a class="reference external" href="http://seinfeldcalendar.com/"&gt;Seinfeld Calendar&lt;/a&gt; method
+to track/prod my progress.  I'm going to stick to one language until I'm comfortable with it (meaning that I can build something new with it
+or port an old project to it), and I intend to post something I find interesting about the language I'm currently undertaking here.&lt;/p&gt;
+&lt;p&gt;I realize, of course, that I may not be able to meet this goal for all 6 languages this year,
+but that's fine.  Full disclosure - I do have varying levels of exposure to all of these languages from tinkering over the last year or so.
+It's time to build now.&lt;/p&gt;
+&lt;p&gt;Set some goals, learn some things in the process.  All positive.&lt;/p&gt;
+</summary><category term="development"></category><category term="clojure"></category><category term="discipline"></category></entry></feed>
