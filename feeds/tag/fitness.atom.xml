@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>polera.org</title><link href="http://polera.org/" rel="alternate"></link><link href="http://polera.org/feeds/tag/fitness.atom.xml" rel="self"></link><id>http://polera.org/</id><updated>2013-04-01T17:00:00-04:00</updated><entry><title>04/01/2013 Run log</title><link href="http://polera.org/2013-04-01-runlog.html" rel="alternate"></link><updated>2013-04-01T17:00:00-04:00</updated><author><name>James Polera</name></author><id>tag:polera.org,2013-04-01:2013-04-01-runlog.html</id><summary type="html">&lt;p&gt;Distance: 1.24 mi&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>polera.org</title><link href="http://polera.org/" rel="alternate"></link><link href="http://polera.org/feeds/tag/fitness.atom.xml" rel="self"></link><id>http://polera.org/</id><updated>2013-04-03T17:00:00-04:00</updated><entry><title>04/03/2013 Run log</title><link href="http://polera.org/2013-04-03-runlog.html" rel="alternate"></link><updated>2013-04-03T17:00:00-04:00</updated><author><name>James Polera</name></author><id>tag:polera.org,2013-04-03:2013-04-03-runlog.html</id><summary type="html">&lt;p&gt;Distance: 1.36 mi&lt;/p&gt;
+&lt;p&gt;Time: 11:51 min&lt;/p&gt;
+&lt;p&gt;Avg pace: 8:45 min/mi&lt;/p&gt;
+</summary><category term="running"></category><category term="fitness"></category></entry><entry><title>04/01/2013 Run log</title><link href="http://polera.org/2013-04-01-runlog.html" rel="alternate"></link><updated>2013-04-01T17:00:00-04:00</updated><author><name>James Polera</name></author><id>tag:polera.org,2013-04-01:2013-04-01-runlog.html</id><summary type="html">&lt;p&gt;Distance: 1.24 mi&lt;/p&gt;
 &lt;p&gt;Time: 11:10 min&lt;/p&gt;
 &lt;p&gt;Avg pace: 8:59 min/mi&lt;/p&gt;
 </summary><category term="running"></category><category term="fitness"></category></entry></feed>
