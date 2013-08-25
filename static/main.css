@@ -7,8 +7,20 @@ body {
 }
 
 #mainContent {
+    text-transform: uppercase;
     text-align:left;
     margin-left: auto;
     margin-right: auto;
     width: 700px;
 }
+
+a {
+    color: #336699;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
